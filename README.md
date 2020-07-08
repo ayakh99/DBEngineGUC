@@ -12,7 +12,7 @@ Supported datatypes:
 
 Supported indices:
 * B+ Trees
-* R Trees that index Polygons on the basis of areas rather than coordinates
+* R Trees that index Polygons on the basis of areas instead of coordinates
 
 
 Contributors - Team Ugh:
